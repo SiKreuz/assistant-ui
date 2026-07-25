@@ -1,5 +1,16 @@
 # @assistant-ui/cloud-ai-sdk
 
+## 0.1.26
+
+### Patch Changes
+
+- [#5140](https://github.com/assistant-ui/assistant-ui/pull/5140) [`a3bb2e3`](https://github.com/assistant-ui/assistant-ui/commit/a3bb2e316e037a8ef829a8bcb5b8b4b2034bcc97) - fix: preserve async tool call callbacks ([@Kinfe123](https://github.com/Kinfe123))
+
+- [#5076](https://github.com/assistant-ui/assistant-ui/pull/5076) [`aec9c3a`](https://github.com/assistant-ui/assistant-ui/commit/aec9c3a056c98e5d2ff7b6f574d6b22cc62b92b5) - test: exercise the ai v6 leg of the peer union in CI ([@okisdev](https://github.com/okisdev))
+
+- Updated dependencies [[`3f90440`](https://github.com/assistant-ui/assistant-ui/commit/3f90440a45d8b7bc11745a1d3cf242d4f40934ed), [`23a9925`](https://github.com/assistant-ui/assistant-ui/commit/23a9925415b92e9138e6f5e07755b89a0f17468f), [`7fde141`](https://github.com/assistant-ui/assistant-ui/commit/7fde141c094d122034804f9b9e19b4f17fb516ba)]:
+  - assistant-cloud@0.1.36
+
 ## 0.1.25
 
 ### Patch Changes

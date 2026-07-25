@@ -1,5 +1,11 @@
 # @assistant-ui/react-lexical
 
+## 0.2.6
+
+### Patch Changes
+
+- [#5145](https://github.com/assistant-ui/assistant-ui/pull/5145) [`d8f38e0`](https://github.com/assistant-ui/assistant-ui/commit/d8f38e0dfe9f4aea54c07999a626fdfb876a40a3) - fix: delegate Tab key events to composer input plugins ([@AVGVSTVS96](https://github.com/AVGVSTVS96))
+
 ## 0.2.5
 
 ### Patch Changes
